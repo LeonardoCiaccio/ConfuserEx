@@ -39,3 +39,7 @@ packages/
 gh-pages/
 
 .idea/
+
+# AI service files
+.claude/
+CLAUDE.md
